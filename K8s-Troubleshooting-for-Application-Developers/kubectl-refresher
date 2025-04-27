@@ -1,0 +1,8 @@
+- kubectl get
+-kubectl describe
+-kubectl logs
+-kubectl explain
+-kubectl exec
+-kubectl top node
+-kubectl diff
+-kubectl get event
